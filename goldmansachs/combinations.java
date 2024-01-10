@@ -1,4 +1,5 @@
 import java.util.*;
+
 class combinations {
     List<List<Integer>> result=new ArrayList<>();
     public void combinations(List<Integer>temp,int k,int n,int intial){
